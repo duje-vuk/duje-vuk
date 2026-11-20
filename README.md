@@ -1,7 +1,5 @@
 # Hi, I'm Duje 👋
 
-**CS student at VU Amsterdam. I build AI-powered tools.**
-
 I like turning study and research workflows into software.
 Right now I'm sharpening core SWE skills and shipping side projects.
 
@@ -26,8 +24,6 @@ Right now I'm sharpening core SWE skills and shipping side projects.
 
 - **Co-organiser**, AI Spring Amsterdam: weekly AI paper reading group
 - **Discussion lead**, Safe AI Netherlands (SAIN): AI safety and governance sessions
-- **Intro week mentor**, STORM at VU Amsterdam
-- Presented Chain-of-Thought efficiency research at a joint AISO/SAIN event
 
 ---
 
@@ -43,4 +39,4 @@ Right now I'm sharpening core SWE skills and shipping side projects.
 
 [Portfolio & blog](https://dujevukovac.com) · [LinkedIn](https://www.linkedin.com/in/dujevukovac)
 
-📷 Off-screen, I'm in an Amsterdam park with my Canon.
+📷 Off-screen, I'm in an Amsterdam park with my Canon camera shooting landscapes.
