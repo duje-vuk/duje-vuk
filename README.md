@@ -2,6 +2,7 @@
 
 I like turning study and research workflows into software.
 Right now I'm sharpening core SWE skills and shipping side projects.
+Take a look at some of them below.
 
 📍 Amsterdam · 🎓 BSc Computer Science (2025–2028) · 💼 Open to internships
 
